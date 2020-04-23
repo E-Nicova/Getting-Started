@@ -13,11 +13,15 @@
 
    #### Make a commit to a test log file.  Record your name and date.
 
+#### Markdown 
+
+  https://guides.github.com/features/mastering-markdown/#intro
+
 #### Git commands for updating the local repo
 
     1. Open Terminal.
     
-    2.Change the current working directory to your local project.
+    2. Change the current working directory to your local project.
     
     3. Fetch the branches and their respective commits from the upstream repository. Commits to master will be stored in a local branch, upstream/master.
 
@@ -29,7 +33,7 @@
       > From https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY
       >  * [new branch]      master     -> upstream/master
 
-    4.Check out your fork's local master branch.
+    4. Check out your fork's local master branch.
 
       $ git checkout master
       > Switched to branch 'master'
