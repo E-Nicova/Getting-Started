@@ -34,7 +34,7 @@
           TX packets:290 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
           RX bytes:781495 (781.4 KB)  TX bytes:36294 (36.2 KB)
-lo        Link encap:Local Loopback  
+      lo        Link encap:Local Loopback  
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:65536  Metric:1
